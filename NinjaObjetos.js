@@ -22,3 +22,5 @@ class Ninja {
 const ninja1 = new Ninja("Hyabusa","hipertenso");
 ninja1.sayName();
 ninja1.showStats();
+
+console.log("nuevo cambio")
